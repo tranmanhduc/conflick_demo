@@ -1,1 +1,3 @@
 Đây là demo conflick trong git - duc check
+Đây là demo conflick trong git - khanh check commit
+
