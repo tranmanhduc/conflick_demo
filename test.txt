@@ -1,3 +1,5 @@
-Đây là demo conflick trong git - duc check de mo ma thoi, chech conflick 2 duc
+
+Đây là demo conflick trong git - duc check de mo ma thoi, chech conflick 2 duc ma thoi
+
 
 
